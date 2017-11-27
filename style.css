@@ -1,0 +1,16 @@
+body {
+    margin: auto;
+    }
+
+.naglowek { 
+    text-align: center;
+    color: blue; 
+}
+div, p {   
+    text-align: center;
+    color: black;
+}
+span {
+    color:red;    
+}
+
